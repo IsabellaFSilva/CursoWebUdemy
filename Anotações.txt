@@ -1,0 +1,5 @@
+Executando o código
+https://repl.it/
+https://jsfiddle.net/
+
+Extenção VScode -> Code Runner
