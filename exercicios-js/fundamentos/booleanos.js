@@ -31,4 +31,4 @@ console.log(!!('' || null || 0 || ' '))
 let nome = 'Isabella'
 nome = ''
 
-console.log(nome || 'Desconhecido')
+console.log(nome || 'Desconhecido') 
