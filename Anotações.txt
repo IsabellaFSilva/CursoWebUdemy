@@ -3,3 +3,5 @@ https://repl.it/
 https://jsfiddle.net/
 
 Extenção VScode -> Code Runner
+
+git pull
